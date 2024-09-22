@@ -10,6 +10,6 @@ This is a word game that tests which player can decipher the word first.
 6. **Winning screen** The first player to 7 will have there name appear on both player screen delcaring them the victor. The option to play again will appear as well.
 
 **Tech used**
-* Java
+* Python
 * Sockets
   
