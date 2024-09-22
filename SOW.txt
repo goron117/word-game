@@ -17,7 +17,8 @@ Sockets
 Exclusions:
 
 Deliverables:
-Multiplayer word decipher game.
+Fully functional multiplayer word decipher game
+Documentation including setup instructions, user guide, and code comments99
 Timeline:
 Key Milestones:
 Sprint 0: Form teams, Setup Tools, Submit SOW [Template] (Sept 08-Sept 22)
@@ -27,17 +28,49 @@ Sprint 3:  Multi-player functionality, Synchronize state across clients. (Oct 20
 Sprint 4:  Game play, Game State (Nov 03-Nov 17)
 Sprint 5: Implement Error Handling and Testing (Nov 17-Dec 6)
 Task Breakdown:
-[Create a detailed breakdown of tasks, assigning estimated hours or days to each.]
+Sprint 1:
+
+Research socket programming basics (10 hours)
+Create TCP server and client scripts (20 hours)
+Test basic client-server connection (10 hours)
+
+Sprint 2:
+
+Define message protocol for game communication (15 hours)
+Implement connection management for multiple clients (15 hours)
+
+Sprint 3:
+
+Design and implement multiplayer game logic (25 hours)
+Synchronize game state between clients (15 hours)
+Sprint 4:
+
+Develop core gameplay mechanics (20 hours)
+Create user interface for gameplay (20 hours)
+
+Sprint 5:
+
+Implement error handling (15 hours)
+Conduct unit and integration testing (20 hours)
+Finalize documentation (10 hours)
 Technical Requirements:
 Hardware:
-[Specify any hardware requirements, such as servers, networking equipment, or specific devices.]
+Development machines 
+A server for hosting the game 
+
 Software:
-[List the necessary software tools, programming languages (Python), libraries (socket, threading, etc.), and operating systems.]
+Python 3
+Libraries: socket
+Version control: GIT
+Operating Systems: Windows/Linux/MacOS
 Assumptions:
-[State any assumptions that are being made about the project, such as network connectivity or availability of resources.]
+Both players will have a stable internet connection
 Roles and Responsibilities:
-[Define the roles of team members, including project manager, developers, testers, etc., and their responsibilities.]
+Project Manager: Tyler Moore
+Oversees project timeline, coordinates team meetings, and ensures deliverables are met. Implements the game logic, socket programming, and handles the user interface
+Developer: Josh Underwood
+Implements the game logic, socket programming, and handles the user interface.
 Communication Plan:
-[Outline the communication channels and frequency for project updates, meetings, and decision-making.]
+Weekly meetings along with daily updates to project code.
 Additional Notes:
-[Include any other relevant information or considerations that are specific to your project.]
+User testing for feedback on gameplay experience.
