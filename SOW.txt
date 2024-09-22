@@ -1,0 +1,43 @@
+Statement of Work (SOW) Template for Socket Programming Project
+Project Title:
+Word Decipher
+
+Team:
+Tyler Moore 
+Josh UnderWood
+
+Project Objective:
+A two player game with a time based trial and error word decipher.
+
+Scope:
+Inclusions:
+Python
+GIT
+Sockets
+Exclusions:
+
+Deliverables:
+Multiplayer word decipher game.
+Timeline:
+Key Milestones:
+Sprint 0: Form teams, Setup Tools, Submit SOW [Template] (Sept 08-Sept 22)
+Sprint 1: Socket Programming, TCP Client Server (Sept 22-Oct 06)
+Sprint 2:  Develop Game Message Protocol, Manage Client connections (Oct 06-Oct 20)
+Sprint 3:  Multi-player functionality, Synchronize state across clients. (Oct 20-Nov 03)
+Sprint 4:  Game play, Game State (Nov 03-Nov 17)
+Sprint 5: Implement Error Handling and Testing (Nov 17-Dec 6)
+Task Breakdown:
+[Create a detailed breakdown of tasks, assigning estimated hours or days to each.]
+Technical Requirements:
+Hardware:
+[Specify any hardware requirements, such as servers, networking equipment, or specific devices.]
+Software:
+[List the necessary software tools, programming languages (Python), libraries (socket, threading, etc.), and operating systems.]
+Assumptions:
+[State any assumptions that are being made about the project, such as network connectivity or availability of resources.]
+Roles and Responsibilities:
+[Define the roles of team members, including project manager, developers, testers, etc., and their responsibilities.]
+Communication Plan:
+[Outline the communication channels and frequency for project updates, meetings, and decision-making.]
+Additional Notes:
+[Include any other relevant information or considerations that are specific to your project.]
